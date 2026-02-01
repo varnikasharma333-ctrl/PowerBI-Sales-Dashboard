@@ -25,12 +25,8 @@ The goal was to convert raw sales data into an interactive dashboard that suppor
 ---
 
 ## 📁 Folder Structure
-## 📁 Folder Structure (Clickable)
-
 - [Dataset](Dataset/)
 - [Images](Images/)
-- [power BI dashboard.pbix](power%20BI%20dashboard.pbix)
-- [Sales dashboard screenrecord.mp4](Sales%20dashboard%20screenrecord.mp4)
-- [README.md](README.md)
+- 
 
 
