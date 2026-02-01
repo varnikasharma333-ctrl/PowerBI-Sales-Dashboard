@@ -1,4 +1,6 @@
 # Sales Performance Dashboard – Power BI
+**Dataset Source:** The dataset used in this project was downloaded from Kaggle for educational and analysis purposes.
+
 
 ## 📌 Project Overview
 This project showcases a Power BI dashboard built to analyze sales and profit performance.  
